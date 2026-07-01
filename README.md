@@ -9,5 +9,4 @@ Currently building practical AI applications and open-source projects.
 - 👯 I’m looking to collaborate on Open-source AI, LLM, RAG, and Generative AI projects.
 - 🤔 I’m looking for help with Advanced LLM optimization, AI systems at scale, and open-source contributions.
 - 💬 Ask me about Python, Machine Learning, LLMs, RAG, LangChain, and Agentic AI.
-- 📫 How to reach me: Connect with me on LinkedIn or email me at nrajasvarma2005@gmail.com
 - ⚡ Fun fact: I enjoy building AI applications that solve real-world problems and continuously exploring the latest advancements in AI.
