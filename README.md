@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sujith Varma
 
-<!--
-**SujithVarma-ai/SujithVarma-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Undergraduate with an interest in Large Language Models, Retrieval-Augmented Generation (RAG), Agentic AI, and Generative AI.
 
-Here are some ideas to get you started:
+Currently building practical AI applications and open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on RAG applications, LLM benchmarking, AI chatbots.
+- 🌱 I’m currently learning Agentic AI, LLM Fine-tuning.
+- 👯 I’m looking to collaborate on Open-source AI, LLM, RAG, and Generative AI projects.
+- 🤔 I’m looking for help with Advanced LLM optimization, AI systems at scale, and open-source contributions.
+- 💬 Ask me about Python, Machine Learning, LLMs, RAG, LangChain, and Agentic AI.
+- 📫 How to reach me: Connect with me on LinkedIn or email me at nrajasvarma2005@gmail.com
+- ⚡ Fun fact: I enjoy building AI applications that solve real-world problems and continuously exploring the latest advancements in AI.
