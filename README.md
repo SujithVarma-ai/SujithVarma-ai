@@ -1,6 +1,6 @@
 # Hi, I'm Sujith Varma 👋
 
-AI/ML Undergraduate passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and Generative AI.
+AI/ML Undergraduate passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Generative AI and Backend Development.
 
 Currently building practical AI applications and contributing to open-source projects.
 
