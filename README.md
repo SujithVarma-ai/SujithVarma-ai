@@ -9,6 +9,7 @@ Currently building practical AI applications and contributing to open-source pro
 * RAG applications
 * LLM benchmarking
 * AI chatbots
+* Backend APIs
 
 ## 🌱 Currently Learning
 
