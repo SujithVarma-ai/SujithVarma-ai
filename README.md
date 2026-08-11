@@ -36,6 +36,10 @@ Currently building practical AI applications and contributing to open-source pro
 - REST APIs and backend services
 - Machine learning applications
 
+## 📌 Areas of Focus
+
+AI/ML → LLMs → RAG → Agentic AI → Backend Development → Production AI Systems
+
 ## 💬 Ask Me About
 
 * Python
