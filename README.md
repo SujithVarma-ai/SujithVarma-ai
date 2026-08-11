@@ -18,6 +18,15 @@ Currently building practical AI applications and contributing to open-source pro
 * ASP.NET Core
 * Backend Architecture
 
+## 💻 Technical Interests
+
+- Programming: Python, C#
+- AI/ML: Machine Learning, NLP, Generative AI, LLMs
+- LLM: Prompt Engineering, Fine-Tuning, LLM Evaluation
+- RAG: LangChain, Embeddings, Vector Databases, Chroma
+- Backend: ASP.NET Core, REST APIs
+- Tools & Platforms: Git, GitHub, Hugging Face, Ollama, Streamlit
+
 ## 💬 Ask Me About
 
 * Python
