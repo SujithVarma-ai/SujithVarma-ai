@@ -27,6 +27,15 @@ Currently building practical AI applications and contributing to open-source pro
 - Backend: ASP.NET Core, REST APIs
 - Tools & Platforms: Git, GitHub, Hugging Face, Ollama, Streamlit
 
+## 🚀 What I Build
+
+- AI-powered applications
+- RAG-based knowledge assistants
+- LLM benchmarking systems
+- AI chatbots
+- REST APIs and backend services
+- Machine learning applications
+
 ## 💬 Ask Me About
 
 * Python
