@@ -40,11 +40,4 @@ Currently building practical AI applications and contributing to open-source pro
 
 AI/ML → LLMs → RAG → Agentic AI → Backend Development → Production AI Systems
 
-## 💬 Ask Me About
-
-* Python
-* Machine Learning
-* LLMs
-* RAG
-* LangChain
-* Agentic AI
+### I'm continuously learning, experimenting, and building projects to strengthen my skills in AI engineering and software development.
