@@ -38,6 +38,7 @@ Currently building practical AI applications and contributing to open-source pro
 - AI chatbots
 - REST APIs and backend services
 - Machine learning applications
+- Containerized applications
 
 ## 📌 Areas of Focus
 
