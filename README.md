@@ -10,6 +10,7 @@ Currently building practical AI applications and contributing to open-source pro
 * LLM benchmarking
 * AI chatbots
 * Backend APIs
+* Containerized applications with Docker
 
 ## 🌱 Currently Learning
 
