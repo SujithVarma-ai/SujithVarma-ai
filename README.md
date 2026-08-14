@@ -18,6 +18,7 @@ Currently building practical AI applications and contributing to open-source pro
 * LLM Fine-Tuning
 * ASP.NET Core
 * Backend Architecture
+* Docker
 
 ## 💻 Technical Interests
 
