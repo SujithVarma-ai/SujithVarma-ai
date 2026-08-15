@@ -28,7 +28,7 @@ Currently building practical AI applications and contributing to open-source pro
 - RAG: LangChain, Embeddings, Vector Databases, Chroma
 - Backend: ASP.NET Core, REST APIs
 - Tools & Platforms: Git, GitHub, Hugging Face, Ollama, Streamlit
-- DevOps: Docker
+- DevOps: Docker, Docker Compose
 
 ## 🚀 What I Build
 
