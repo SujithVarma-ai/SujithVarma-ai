@@ -17,7 +17,6 @@ Currently building practical AI applications, backend services, and production-o
 * Agentic AI
 * LLM Fine-Tuning
 * Backend Architecture
-* Docker
 
 ## 💻 Technical Interests
 
