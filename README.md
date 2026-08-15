@@ -16,7 +16,6 @@ Currently building practical AI applications and contributing to open-source pro
 
 * Agentic AI
 * LLM Fine-Tuning
-* ASP.NET Core
 * Backend Architecture
 * Docker
 
