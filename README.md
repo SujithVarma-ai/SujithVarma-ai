@@ -2,7 +2,7 @@
 
 AI/ML Undergraduate passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Generative AI and Backend Development.
 
-Currently building practical AI applications and contributing to open-source projects.
+Currently building practical AI applications, backend services, and production-oriented AI systems.
 
 ## 🔭 Currently Working On
 
