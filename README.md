@@ -38,6 +38,7 @@ Currently building practical AI applications, backend services, and production-o
 - REST APIs and backend services
 - Machine learning applications
 - Containerized applications
+- Full-stack AI applications
 
 ## 📌 Areas of Focus
 
