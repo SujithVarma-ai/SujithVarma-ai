@@ -42,6 +42,6 @@ Currently building practical AI applications, backend services, and production-o
 
 ## 📌 Areas of Focus
 
-AI/ML → LLMs → RAG → Agentic AI → Backend Development → Production AI Systems
+AI/ML → LLMs → RAG → Agentic AI → Backend Development → Cloud & DevOps → Production AI Systems
 
 ### I'm continuously learning, experimenting, and building projects to strengthen my skills in AI engineering and software development.
