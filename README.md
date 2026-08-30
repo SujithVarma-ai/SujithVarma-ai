@@ -26,7 +26,7 @@ Currently building practical AI applications, backend services, and production-o
 - LLM: Prompt Engineering, Fine-Tuning, LLM Evaluation
 - RAG: LangChain, Embeddings, Vector Databases, Chroma
 - Backend: ASP.NET Core, REST APIs
-- Tools & Platforms: Git, GitHub, Hugging Face, Ollama, Streamlit
+- Tools & Platforms: Git, GitHub, GitHub Actions, Hugging Face, Ollama, Streamlit
 - DevOps: Docker, Docker Compose
 
 ## 🚀 What I Build
