@@ -17,7 +17,7 @@ Currently building practical AI applications, backend services, and production-o
 * Agentic AI
 * LLM Fine-Tuning
 * Backend Architecture
-* AWS Cloud Services — EC2, S3
+* AWS Cloud Services — EC2, S3, VPC
 
 ## 💻 Technical Interests
 
