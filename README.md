@@ -28,6 +28,7 @@ Currently building practical AI applications, backend services, and production-o
 - Backend: ASP.NET Core, REST APIs
 - Tools & Platforms: Git, GitHub, GitHub Actions, Hugging Face, Ollama, Streamlit
 - DevOps: Docker, Docker Compose, CI
+- Cloud: AWS
 
 ## 🚀 What I Build
 
