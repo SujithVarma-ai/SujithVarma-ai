@@ -19,77 +19,50 @@ ASP.NET Core, REST APIs, Docker & GitHub Actions CI
 ⚡ Fun fact  
 I enjoy turning AI concepts into practical applications
 
-## 🔭 Currently Working On
+## 💻 Tech Stack
 
-- RAG applications
-- LLM benchmarking and evaluation
-- AI-powered chatbots and knowledge assistants
-- Backend APIs
-- Containerized AI applications with Docker
+### Languages
 
-## 🌱 Currently Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-- Agentic AI
-- Backend Architecture
-- AWS Cloud Services — EC2, S3, VPC
+### AI / ML / LLM
 
-## 💻 Technical Interests
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Programming
-- Python
-- C#
+### Generative AI / RAG
 
-### AI / ML / Generative AI
-- Machine Learning
-- Natural Language Processing (NLP)
-- Generative AI
-- Large Language Models (LLMs)
-- LLM Evaluation
-- LLM Fine-Tuning
-- LoRA / QLoRA
-- Prompt Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-5A45FF?style=for-the-badge&logoColor=white)
 
-### RAG
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Embeddings
-- Vector Databases
-- Chroma
+### Backend / Frontend
 
-### Backend
-- ASP.NET Core
-- REST APIs
-- JWT Authentication
-- .NET
-
-### Frontend
-- React
-
-### Data & ML Libraries
-- NumPy
-- Pandas
-- Matplotlib
-- Plotly
-- Scikit-learn
-- PyTorch
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Database
-- Microsoft SQL Server
-- Entity Framework Core
 
-### DevOps & CI
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- GitHub Actions
-- Continuous Integration (CI)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### DevOps / CI
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Cloud
-- AWS
-- EC2
-- S3
-- VPC
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🚀 What I Build
 
@@ -97,9 +70,8 @@ I enjoy turning AI concepts into practical applications
 - RAG-based knowledge assistants
 - LLM benchmarking systems
 - AI chatbots
-- REST APIs and backend services
-- Machine learning applications
 - Full-stack AI applications
+- REST APIs and backend services
 - Containerized applications
 
 ## 📌 Areas of Focus
@@ -114,11 +86,11 @@ AI/ML → LLMs → RAG → Agentic AI → Full-Stack Development → Cloud & Dev
 
 ## 📊 GitHub Stats
 
-![Sujith Varma's GitHub Stats](https://github-readme-stats.shion.dev/api?username=SujithVarma-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=SujithVarma-ai&theme=dark&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SujithVarma-ai&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SujithVarma-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SujithVarma-ai&theme=dark&hide_border=false&layout=compact)
 
 ## 👀 Profile Visitors
 
