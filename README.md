@@ -41,11 +41,10 @@ I enjoy turning AI concepts into practical applications
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-5A45FF?style=for-the-badge&logoColor=white)
 
-### Backend / Frontend
+### Backend
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Database
@@ -86,11 +85,7 @@ AI/ML → LLMs → RAG → Agentic AI → Full-Stack Development → Cloud & Dev
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=SujithVarma-ai&theme=dark&hide_border=false)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SujithVarma-ai&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SujithVarma-ai&theme=dark&hide_border=false&layout=compact)
 
 ## 👀 Profile Visitors
 
