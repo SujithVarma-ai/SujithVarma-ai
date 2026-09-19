@@ -13,13 +13,11 @@ Enterprise AI Helpdesk, RAG applications & AI-powered systems
 AWS — EC2, S3, VPC & Agentic AI
 
 💬 Ask me about  
-Python, C#, LLMs, RAG, LangChain, LLM Fine-Tuning,  
-ASP.NET Core, REST APIs, Docker & GitHub Actions CI
+LLMs, RAG, LLM Fine-Tuning,  
+ASP.NET Core, REST APIs, Docker
 
 ⚡ Fun fact  
 I enjoy turning AI concepts into practical applications
-
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
