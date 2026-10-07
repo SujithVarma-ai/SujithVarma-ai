@@ -54,14 +54,10 @@ I enjoy turning AI concepts into practical applications
 
 ## 📌 Areas of Focus
 
-AI/ML → LLMs → RAG → Agentic AI → Full-Stack Development → Cloud & DevOps → Production AI Systems
+AI/ML → LLMs → RAG → Agentic AI → Backend Development → Cloud & DevOps → Production AI Systems
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sujith-varma-nadimpalli/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nrajasvarma2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SujithVarma-ai)
-
-## 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=SujithVarma-ai&label=Profile%20Views&color=1&style=flat)
