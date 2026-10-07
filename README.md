@@ -7,7 +7,7 @@ Currently building practical AI applications, backend services, and production-o
 ## 💫 About Me
 
 🔭 I’m currently working on  
-Enterprise AI Helpdesk, RAG applications & AI-powered systems
+Agentic AI, RAG applications & LLM-powered systems
 
 🌱 I’m currently learning  
 AWS — EC2, S3, VPC & IAM 
