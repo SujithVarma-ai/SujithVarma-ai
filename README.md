@@ -10,8 +10,7 @@ Currently building practical AI applications, backend services, and production-o
 Agentic AI, RAG applications & LLM-powered systems
 
 🌱 I’m currently learning  
-AWS — EC2, S3, VPC & IAM 
-Agentic AI
+Machine Learning, Deep Learning & AWS Cloud
 
 💬 Ask me about  
 LLMs, RAG, LLM Fine-Tuning,  
