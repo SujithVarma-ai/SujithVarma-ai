@@ -1,6 +1,6 @@
 # Hi, I'm Sujith Varma 👋
 
-AI/ML Undergraduate passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Generative AI, and Full-Stack AI Development.
+AI/ML Undergraduate passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Generative AI, and Backend Development.
 
 Currently building practical AI applications, backend services, and production-oriented AI systems.
 
@@ -14,7 +14,7 @@ Machine Learning, Deep Learning & Advanced Cloud/DevOps
 
 💬 Ask me about  
 LLMs, RAG, LLM Fine-Tuning,  
-ASP.NET Core, REST APIs, Docker
+ASP.NET Core, REST APIs, Docker & CI/CD
 
 ⚡ Fun fact  
 I enjoy turning AI concepts into practical applications
