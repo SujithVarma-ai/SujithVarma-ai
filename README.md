@@ -13,8 +13,7 @@ Agentic AI, RAG applications & LLM-powered systems
 Deep Learning, Neural Networks, Perceptron, t-SNE & Advanced Cloud/DevOps
 
 💬 Ask me about  
-LLMs, RAG, LLM Fine-Tuning,  
-ASP.NET Core, REST APIs, Docker & CI/CD
+Machine Learning (from scratch with NumPy), LLMs, RAG, LLM Fine-Tuning, ASP.NET Core, REST APIs, Docker & CI/CD
 
 ⚡ Fun fact  
 I enjoy turning AI concepts into practical applications
