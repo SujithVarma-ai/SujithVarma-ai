@@ -6,7 +6,7 @@ Currently building practical AI applications, backend services, and production-o
 
 ## 📄 Resume
 
-[![View Resume](https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Sujith_Varma_Resume.pdf)
+[![View Resume](https://img.shields.io/badge/View_My_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Rezume.pdf)
 
 ## 💫 About Me
 
