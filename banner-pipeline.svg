@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 280" width="1100" height="280" font-family="Segoe UI, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1026"/><stop offset="0.6" stop-color="#16124a"/><stop offset="1" stop-color="#0a0820"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2046"/><stop offset="1" stop-color="#11142e"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4fc3f7"/><stop offset="1" stop-color="#b388ff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#6d5fd6" stroke-opacity="0.07"/></pattern>
+<marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L7 4L0 8z" fill="#8a7df5"/></marker>
+</defs>
+<rect width="1100" height="280" fill="url(#bg)"/><rect width="1100" height="280" fill="url(#grid)"/>
+<text x="550" y="32" text-anchor="middle" font-size="13" letter-spacing="4" fill="#9fb4d9" font-family="Consolas, Menlo, monospace">FROM DATA TO DEPLOYED AI</text>
+<rect x="25" y="50" width="190" height="165" rx="12" fill="url(#card)" stroke="#2c3363"/>
+<rect x="45" y="50" width="150" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="120.0" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#fff" letter-spacing="1">DATA</text>
+<text x="120.0" y="198" text-anchor="middle" font-size="11" fill="#7d8ac0">Pipelines · Features</text>
+<line x1="218" y1="132.5" x2="235" y2="132.5" stroke="#8a7df5" stroke-width="1.6" stroke-dasharray="4 3" marker-end="url(#ar)"><animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/></line>
+<path d="M92.0 86 v18 a28 8 0 0 0 56 0 v-18" fill="#12183a" stroke="#4fc3f7" stroke-width="1.5"/>
+<path d="M92.0 104 v18 a28 8 0 0 0 56 0 v-18" fill="#12183a" stroke="#4fc3f7" stroke-width="1.5"/>
+<path d="M92.0 122 v18 a28 8 0 0 0 56 0 v-18" fill="#12183a" stroke="#4fc3f7" stroke-width="1.5"/>
+<ellipse cx="120.0" cy="86" rx="28" ry="8" fill="#1d2a5a" stroke="#4fc3f7" stroke-width="1.5"/>
+<circle cx="136.0" cy="114" r="2" fill="#4fc3f7"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/></circle>
+<rect x="240" y="50" width="190" height="165" rx="12" fill="url(#card)" stroke="#2c3363"/>
+<rect x="260" y="50" width="150" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="335.0" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#fff" letter-spacing="1">MACHINE LEARNING</text>
+<text x="335.0" y="198" text-anchor="middle" font-size="11" fill="#7d8ac0">Models from scratch</text>
+<line x1="433" y1="132.5" x2="450" y2="132.5" stroke="#8a7df5" stroke-width="1.6" stroke-dasharray="4 3" marker-end="url(#ar)"><animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/></line>
+<line x1="295.0" y1="142" x2="295.0" y2="82" stroke="#4a5590"/><line x1="295.0" y1="142" x2="375.0" y2="142" stroke="#4a5590"/>
+<circle cx="301.0" cy="131.3" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="306.4" cy="133.1" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="311.8" cy="126.3" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="317.2" cy="126.8" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="322.6" cy="123.5" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="328.0" cy="109.7" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="333.4" cy="105.0" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="338.8" cy="116.2" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="344.2" cy="102.1" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="349.6" cy="97.9" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="355.0" cy="107.9" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="360.4" cy="94.8" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="365.8" cy="97.7" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<circle cx="371.2" cy="87.5" r="2.4" fill="#4fc3f7" opacity="0.85"/>
+<line x1="299.0" y1="138" x2="371.0" y2="86" stroke="#b388ff" stroke-width="2" stroke-dasharray="90" ><animate attributeName="stroke-dashoffset" values="90;0" dur="2.4s" repeatCount="indefinite"/></line>
+<rect x="455" y="50" width="190" height="165" rx="12" fill="url(#card)" stroke="#2c3363"/>
+<rect x="475" y="50" width="150" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="550.0" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#fff" letter-spacing="1">NEURAL NETWORKS</text>
+<text x="550.0" y="198" text-anchor="middle" font-size="11" fill="#7d8ac0">Deep Learning · PyTorch</text>
+<line x1="648" y1="132.5" x2="665" y2="132.5" stroke="#8a7df5" stroke-width="1.6" stroke-dasharray="4 3" marker-end="url(#ar)"><animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/></line>
+<line x1="512.0" y1="90" x2="550.0" y2="79" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="90" x2="550.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="90" x2="550.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="90" x2="550.0" y2="145" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="112" x2="550.0" y2="79" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="112" x2="550.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="112" x2="550.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="112" x2="550.0" y2="145" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="134" x2="550.0" y2="79" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="134" x2="550.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="134" x2="550.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="512.0" y1="134" x2="550.0" y2="145" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="79" x2="588.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="79" x2="588.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="101" x2="588.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="101" x2="588.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="123" x2="588.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="123" x2="588.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="145" x2="588.0" y2="101" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<line x1="550.0" y1="145" x2="588.0" y2="123" stroke="#7c6cf0" stroke-opacity="0.45"/>
+<circle cx="512.0" cy="90" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="512.0" cy="112" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="512.0" cy="134" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="550.0" cy="79" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="550.0" cy="101" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="550.0" cy="123" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="550.0" cy="145" r="5" fill="#4fc3f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="588.0" cy="101" r="5" fill="#b388ff"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="588.0" cy="123" r="5" fill="#b388ff"><animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/></circle>
+<rect x="670" y="50" width="190" height="165" rx="12" fill="url(#card)" stroke="#2c3363"/>
+<rect x="690" y="50" width="150" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="765.0" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#fff" letter-spacing="1">LLMs</text>
+<text x="765.0" y="198" text-anchor="middle" font-size="11" fill="#7d8ac0">Transformers · Fine-tuning</text>
+<line x1="863" y1="132.5" x2="880" y2="132.5" stroke="#8a7df5" stroke-width="1.6" stroke-dasharray="4 3" marker-end="url(#ar)"><animate attributeName="stroke-dashoffset" from="14" to="0" dur="1s" repeatCount="indefinite"/></line>
+<rect x="735.5" y="82.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.88"><animate attributeName="opacity" values="0.88;1.00;0.88" dur="1.7s" repeatCount="indefinite"/></rect>
+<rect x="747.5" y="82.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.61"><animate attributeName="opacity" values="0.61;0.91;0.61" dur="2.8s" repeatCount="indefinite"/></rect>
+<rect x="759.5" y="82.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.26"><animate attributeName="opacity" values="0.26;0.56;0.26" dur="2.6s" repeatCount="indefinite"/></rect>
+<rect x="771.5" y="82.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.16"><animate attributeName="opacity" values="0.16;0.46;0.16" dur="1.6s" repeatCount="indefinite"/></rect>
+<rect x="783.5" y="82.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.15"><animate attributeName="opacity" values="0.15;0.45;0.15" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="735.5" y="94.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.54"><animate attributeName="opacity" values="0.54;0.84;0.54" dur="1.5s" repeatCount="indefinite"/></rect>
+<rect x="747.5" y="94.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.95"><animate attributeName="opacity" values="0.95;1.00;0.95" dur="2.2s" repeatCount="indefinite"/></rect>
+<rect x="759.5" y="94.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.63"><animate attributeName="opacity" values="0.63;0.93;0.63" dur="2.8s" repeatCount="indefinite"/></rect>
+<rect x="771.5" y="94.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.27"><animate attributeName="opacity" values="0.27;0.57;0.27" dur="2.9s" repeatCount="indefinite"/></rect>
+<rect x="783.5" y="94.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.16"><animate attributeName="opacity" values="0.16;0.46;0.16" dur="2.7s" repeatCount="indefinite"/></rect>
+<rect x="735.5" y="106.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.26"><animate attributeName="opacity" values="0.26;0.56;0.26" dur="2.9s" repeatCount="indefinite"/></rect>
+<rect x="747.5" y="106.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.66"><animate attributeName="opacity" values="0.66;0.96;0.66" dur="1.6s" repeatCount="indefinite"/></rect>
+<rect x="759.5" y="106.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.71"><animate attributeName="opacity" values="0.71;1.00;0.71" dur="1.8s" repeatCount="indefinite"/></rect>
+<rect x="771.5" y="106.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.68"><animate attributeName="opacity" values="0.68;0.98;0.68" dur="2.2s" repeatCount="indefinite"/></rect>
+<rect x="783.5" y="106.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.27"><animate attributeName="opacity" values="0.27;0.57;0.27" dur="2.0s" repeatCount="indefinite"/></rect>
+<rect x="735.5" y="118.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.16"><animate attributeName="opacity" values="0.16;0.46;0.16" dur="2.1s" repeatCount="indefinite"/></rect>
+<rect x="747.5" y="118.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.25"><animate attributeName="opacity" values="0.25;0.55;0.25" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="759.5" y="118.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.60"><animate attributeName="opacity" values="0.60;0.90;0.60" dur="2.9s" repeatCount="indefinite"/></rect>
+<rect x="771.5" y="118.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.89"><animate attributeName="opacity" values="0.89;1.00;0.89" dur="2.9s" repeatCount="indefinite"/></rect>
+<rect x="783.5" y="118.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.66"><animate attributeName="opacity" values="0.66;0.96;0.66" dur="3.0s" repeatCount="indefinite"/></rect>
+<rect x="735.5" y="130.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.15"><animate attributeName="opacity" values="0.15;0.45;0.15" dur="1.7s" repeatCount="indefinite"/></rect>
+<rect x="747.5" y="130.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.16"><animate attributeName="opacity" values="0.16;0.46;0.16" dur="2.9s" repeatCount="indefinite"/></rect>
+<rect x="759.5" y="130.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.28"><animate attributeName="opacity" values="0.28;0.58;0.28" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="771.5" y="130.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.63"><animate attributeName="opacity" values="0.63;0.93;0.63" dur="1.8s" repeatCount="indefinite"/></rect>
+<rect x="783.5" y="130.5" width="10" height="10" rx="2" fill="#b388ff" opacity="0.94"><animate attributeName="opacity" values="0.94;1.00;0.94" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="885" y="50" width="190" height="165" rx="12" fill="url(#card)" stroke="#2c3363"/>
+<rect x="905" y="50" width="150" height="3" rx="1.5" fill="url(#acc)"/>
+<text x="980.0" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#fff" letter-spacing="1">RAG & AGENTS</text>
+<text x="980.0" y="198" text-anchor="middle" font-size="11" fill="#7d8ac0">LangChain · Vector DBs</text>
+<line x1="980.0" y1="112" x2="980.0" y2="84.0" stroke="#7c6cf0" stroke-opacity="0.6"/>
+<circle r="2" fill="#fff"><animateMotion dur="2s" repeatCount="indefinite" begin="0.6s" path="M980.0,112 L980.0,84.0"/></circle>
+<line x1="980.0" y1="112" x2="1012.3" y2="103.4" stroke="#7c6cf0" stroke-opacity="0.6"/>
+<circle r="2" fill="#fff"><animateMotion dur="2s" repeatCount="indefinite" begin="0.1s" path="M980.0,112 L1012.3,103.4"/></circle>
+<line x1="980.0" y1="112" x2="1000.0" y2="134.7" stroke="#7c6cf0" stroke-opacity="0.6"/>
+<circle r="2" fill="#fff"><animateMotion dur="2s" repeatCount="indefinite" begin="1.7s" path="M980.0,112 L1000.0,134.7"/></circle>
+<line x1="980.0" y1="112" x2="960.0" y2="134.6" stroke="#7c6cf0" stroke-opacity="0.6"/>
+<circle r="2" fill="#fff"><animateMotion dur="2s" repeatCount="indefinite" begin="2.0s" path="M980.0,112 L960.0,134.6"/></circle>
+<line x1="980.0" y1="112" x2="947.7" y2="103.3" stroke="#7c6cf0" stroke-opacity="0.6"/>
+<circle r="2" fill="#fff"><animateMotion dur="2s" repeatCount="indefinite" begin="0.2s" path="M980.0,112 L947.7,103.3"/></circle>
+<circle cx="980.0" cy="84.0" r="5" fill="#4fc3f7"/>
+<circle cx="1012.3" cy="103.4" r="5" fill="#4fc3f7"/>
+<circle cx="1000.0" cy="134.7" r="5" fill="#4fc3f7"/>
+<circle cx="960.0" cy="134.6" r="5" fill="#4fc3f7"/>
+<circle cx="947.7" cy="103.3" r="5" fill="#4fc3f7"/>
+<circle cx="980.0" cy="112" r="9" fill="#b388ff"/><circle cx="980.0" cy="112" r="14" fill="none" stroke="#b388ff" stroke-opacity="0.5"><animate attributeName="r" values="10;18;10" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.7;0;0.7" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="550" y="254" text-anchor="middle" font-size="12" fill="#9fb4d9" letter-spacing="1">AI / ML / LLM ENGINEER  ·  RAG  ·  AGENTIC AI  ·  BACKEND  ·  MLOPS</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjNjFlYTM1OC01NzNiLTQzODYtODFkMC01NDYyNGYyZWY4MGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJUNIsRcVxTP49JGW9t+X1cAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5N2UzZjZhZS1kNDUyLTRiZDQtYjAwZi02MjUzMWFlMTQyOWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoLru8gnWaYunAXzEZGE64WAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggtWK6PcyFHf+6GiPM8ZxotJeRo+owFS3QecgkwoLI71+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaE0zpwRhbsK4/ZyVaWRThnsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIJojiEB4fSRHjkoFGj4KwAOIMQH3GHoVmyTXbF39CTovZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTzvZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM2MWVhMzU4LTU3M2ItNDM4Ni04MWQwLTU0NjI0ZjJlZjgwYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQ1MjVkZDc5LTBhY2QtNGJhZS04NGE2LTNiYWZiNmM1ZDE2ZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC1Yro9zIUd/7oaI8zxnGi0l5Gj6jAVLdB5yCTCgsjvX6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0KWxeAtgvGbQDeyAQlRQG/y1rff53N4TIMkI9xuIyZuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEmqIjJjyltO8R9EdM2t3MPQelt+aEfJP5O6NUsQ8MVN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQN4gHYDqQENXgL22ewTp/4afbl6zDsZpLV5MCgF2LNoIXDibe13JKEEa2yPPim4EDTIbvx1npxkO7lHq59yiWFU=</c2pa:manifest></metadata></svg>
