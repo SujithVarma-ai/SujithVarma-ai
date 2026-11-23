@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-pipeline.svg" alt="banner" width="100%"/>
+</p>
+
 # Hi, I'm Sujith Varma 👋
 
 AI/ML Undergraduate passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Generative AI, and Backend Development.
