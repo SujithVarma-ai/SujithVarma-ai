@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-pipeline.svg" alt="banner" width="100%"/>
+  <img src="./banner-pipeline.svg(1)" alt="banner" width="100%"/>
 </p>
 
 # Hi, I'm Sujith Varma 👋
